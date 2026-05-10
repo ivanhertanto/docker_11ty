@@ -4,3 +4,5 @@ permalink: index.html
 ---
 
 # Hello from 11ty!
+
+Ini adalah isi dari markdown!

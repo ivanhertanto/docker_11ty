@@ -7,7 +7,7 @@
 
 ## ✨ **Fitur**
 
-| ✅ **Zero install  | Tidak perlu Node.js/npm di host |
+| ✅ **Zero install**  | Tidak perlu Node.js/npm di host |
 | ----------------- | ------------------------------- |
 | ✅ **Non-root user** | User `ivan` (UID 2000)          |
 | ✅ **Hot reload**    | Edit → Auto refresh             |
