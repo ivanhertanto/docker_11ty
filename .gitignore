@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+.pnpm-debug.log
+.vscode/
+.idea/
+.DS_Store
+
+# Eleventy
+_site/
+dist/
+.cache/
+*.temp
+*.log
+
+# Docker
+docker-compose.override.yml
+docker-compose.local.yml
+.env
+.env.*
+Dockerfile*
+docker-compose*.yml
