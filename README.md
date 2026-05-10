@@ -1,4 +1,5 @@
 # Pengembangan 11ty dengan Docker
+
 ![11ty](https://img.shields.io/badge/11ty-v2.0-brightgreen)
 ![Docker](https://img.shields.io/badge/Docker-Container-blue)
 
@@ -8,11 +9,11 @@
 
 | ✅ **Zero install  | Tidak perlu Node.js/npm di host |
 | ----------------- | ------------------------------- |
-| ✅ **Non-root user | User `ivan` (UID 2000)          |
-| ✅ **Hot reload    | Edit → Auto refresh             |
-| ✅ **0.0.0.0 bind  | `localhost:8080` bisa diakses   |
-| ✅ **Persistent    | Cache npm + node_modules        |
-| ✅ **VSCode ready  | Dev Containers support          |
+| ✅ **Non-root user** | User `ivan` (UID 2000)          |
+| ✅ **Hot reload**    | Edit → Auto refresh             |
+| ✅ **0.0.0.0 bind**  | `localhost:8080` bisa diakses   |
+| ✅ **Persistent**    | Cache npm + node_modules        |
+| ✅ **VSCode ready**  | Dev Containers support          |
 
 ## 🚀 **Mulai Cepat**
 
