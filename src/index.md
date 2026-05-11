@@ -1,6 +1,6 @@
 ---
-title: "Welcome to 11ty + Docker!"
-permalink: index.html
+layout: base.njk
+title: Home
 ---
 
 # Hello from 11ty!
